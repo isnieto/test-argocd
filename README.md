@@ -1,2 +1,2 @@
 # test-argocd
-testeand argo cd
+testing how to deploy and run app using argo cd
